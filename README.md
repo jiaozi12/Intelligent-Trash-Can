@@ -1,4 +1,4 @@
 # Intelligent-Trash-Can
 This paper briefly introduces my graduation project intelligent sorting trash can. Raspberry PI 3B +, steering gear, camera, acrylic plate and other parts are used to make the hardware platform of intelligent sorting trash can.  
 Then, the collected garbage image data sets are used to train MobilenetV1 lightweight network and xgboost classifier, and tensorflow Lite is used to further optimize MobilenetV1 on raspberry PI. In the resource constrained raspberry PI 3B + development board, garbage sorting is implemented.  
-Please refer to [https://blog.csdn.net/qq_41718325/article/details/118852402](www.baidu.com) for details.
+Please refer to [https://blog.csdn.net/qq_41718325/article/details/118852402](https://blog.csdn.net/qq_41718325/article/details/118852402) for details.
